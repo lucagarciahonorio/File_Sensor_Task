@@ -83,6 +83,3 @@ O arquivo JSON gerado pela turbina eólica segue o seguinte formato:
 - Python
 - PostgreSQL
 - Biblioteca de envio de e-mails
-
-## Contato
-Para dúvidas ou sugestões, entre em contato com o autor do projeto.
